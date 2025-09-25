@@ -11,7 +11,6 @@ function mostrarActividad() {
         case 'martes':
             actividad = 'visitar una agencia fuera de la ciudad';
             break;
-        case 'miércoles':
         case 'miercoles':
             actividad = 'llevar a mi hija al ballet';
             break;
@@ -21,7 +20,6 @@ function mostrarActividad() {
         case 'viernes':
             actividad = 'atender problemas de manera remota';
             break;
-        case 'sábado':
         case 'sabado':
             actividad = 'hacer lo que mi esposa quiera';
             break;
